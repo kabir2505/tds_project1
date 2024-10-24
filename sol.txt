@@ -1,0 +1,14 @@
+1. IDouble,TheOfficialFloW,Seldaek,riscv,JonnyBurger
+2. lejoe,uwolfer,matthiask,oscardelben,panterch
+3.MIT License,Other,Apache License 2.0
+4. GOOGLE
+5. Python (repo)
+6. JavaScript      
+7. BitBake
+8. riscv,bpasero,Seldaek,egamma,ethz-asl
+9. 0.066
+10. 1.465
+11. 1.466
+14. IDouble
+15. 0.069
+16. Li,Wang
